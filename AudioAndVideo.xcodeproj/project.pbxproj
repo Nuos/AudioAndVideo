@@ -17,6 +17,9 @@
 		E4BA11C31DC7602700E23586 /* AudioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4BA11C11DC7602700E23586 /* AudioViewController.xib */; };
 		E4BA11C71DC7603A00E23586 /* VideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BA11C51DC7603A00E23586 /* VideoViewController.m */; };
 		E4BA11C81DC7603A00E23586 /* VideoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4BA11C61DC7603A00E23586 /* VideoViewController.xib */; };
+		E4BA17A51DC83A70004B5D1C /* 张韶涵 - 欧若拉.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4BA17A41DC83A70004B5D1C /* 张韶涵 - 欧若拉.mp3 */; };
+		E4BA17A71DC86F4E004B5D1C /* pair.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4BA17A61DC86F4E004B5D1C /* pair.wav */; };
+		E4BA17A91DC88B69004B5D1C /* zhuxian1.mov in Resources */ = {isa = PBXBuildFile; fileRef = E4BA17A81DC88B69004B5D1C /* zhuxian1.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +39,9 @@
 		E4BA11C41DC7603A00E23586 /* VideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoViewController.h; sourceTree = "<group>"; };
 		E4BA11C51DC7603A00E23586 /* VideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoViewController.m; sourceTree = "<group>"; };
 		E4BA11C61DC7603A00E23586 /* VideoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = VideoViewController.xib; sourceTree = "<group>"; };
+		E4BA17A41DC83A70004B5D1C /* 张韶涵 - 欧若拉.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "张韶涵 - 欧若拉.mp3"; sourceTree = "<group>"; };
+		E4BA17A61DC86F4E004B5D1C /* pair.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pair.wav; sourceTree = "<group>"; };
+		E4BA17A81DC88B69004B5D1C /* zhuxian1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = zhuxian1.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +96,9 @@
 		E4A9E01D1DC34FAF00D4E66D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E4BA17A81DC88B69004B5D1C /* zhuxian1.mov */,
+				E4BA17A61DC86F4E004B5D1C /* pair.wav */,
+				E4BA17A41DC83A70004B5D1C /* 张韶涵 - 欧若拉.mp3 */,
 				E4A9E01E1DC34FAF00D4E66D /* main.m */,
 			);
 			name = "Supporting Files";
@@ -159,8 +168,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4BA17A71DC86F4E004B5D1C /* pair.wav in Resources */,
+				E4BA17A51DC83A70004B5D1C /* 张韶涵 - 欧若拉.mp3 in Resources */,
 				E4A9E02D1DC34FAF00D4E66D /* LaunchScreen.storyboard in Resources */,
 				E4BA11C31DC7602700E23586 /* AudioViewController.xib in Resources */,
+				E4BA17A91DC88B69004B5D1C /* zhuxian1.mov in Resources */,
 				E4A9E02A1DC34FAF00D4E66D /* Assets.xcassets in Resources */,
 				E4BA11C81DC7603A00E23586 /* VideoViewController.xib in Resources */,
 				E4A9E0281DC34FAF00D4E66D /* Main.storyboard in Resources */,
